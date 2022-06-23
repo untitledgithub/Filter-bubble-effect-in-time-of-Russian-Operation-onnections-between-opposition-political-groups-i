@@ -1,12 +1,12 @@
-**Syllabus **
+**Syllabus**
 
 **Theme:** 
 Filter bubble effect in time of Russian Operation: connections between opposition news groups in VK
 
-**Object: **
+**Object:**
 Filter bubble effect in: DOXA, ВЗГЛЯД, MK (Московский комсомолец)
 
-**Goals: **
+**Goals:**
 • Relations between communities
 • Identifying centrist audience
 • Pages word cloud
