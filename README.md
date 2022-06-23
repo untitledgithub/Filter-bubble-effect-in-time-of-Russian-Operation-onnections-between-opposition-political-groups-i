@@ -34,17 +34,24 @@ procedures, text work)
 Final Nodes & Final Edges are datasets for Gephi where we’ve collected data of social network analysis of communities.
 
 Final Nodes (DONT CHANGE!):
+
 Ids’: Id of users which we’ve parsed from pepper.ninja and extra Id’s of media (MK, VZglyad and DOXA)
+
 Labels: name of the media
 
 Final EDGES (DONT CHANGE!):
+
 Source: Ids of users which we’ve parsed from pepper.ninja and extra Id’s of media (MK, VZglyad and DOXA)
+
 Target: ids of media we’ve used
 
 Datasets Посты VZгляд, Посты МК, Посты ДОХА are the base that we used to make a word cloud
 Посты VZгляд: textes of posts from 24th of February till 23d of June from VZglyad
+
 Посты МК: extes of posts from 24th of February till 23d of June from MK
+
 Посты ДОХА: extes of posts from 24th of February till 23d of June from DOXA
+
 *There are extra 3 datasets. They just have the other type of file.
 
 To revise our social network analysis you should check 2 datasets: Final Nodes & Final Edges
