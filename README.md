@@ -30,7 +30,7 @@ Filter bubble effect in: DOXA, ВЗГЛЯД, MK (Московский комсо
 procedures, text work)
 
 **Repository Description:**
-Repository Description:
+
 Final Nodes & Final Edges are datasets for Gephi where we’ve collected data of social network analysis of communities.
 
 Final Nodes (DONT CHANGE!):
